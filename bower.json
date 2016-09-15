@@ -1,0 +1,26 @@
+{
+  "name": "angular2-schema-form",
+  "version": "0.0.0-alpha.1",
+  "authors": [
+    "Marcel Bennett <iamanthropic@gmail.com>"
+  ],
+  "description": "Angular 2 Schema Form",
+  "main": "dist/angular2-schema-form.js",
+  "keywords": [
+    "angular-schema-form",
+    "angular",
+    "json-schema-form"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/json-schema-form/angular2-schema-form",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "json-schema-form": "1.0.0-alpha.1"
+  }
+}
